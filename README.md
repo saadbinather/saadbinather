@@ -22,5 +22,7 @@ I am a final-year Computer Science student passionate about the intersection of 
 
 ---
 
-📫 **How to reach me:** [saadbinatherr@gmail.com](mailto:saadbinatherr@gmail.com)
-🔗 **LinkedIn:** [linkedin.com/in/SaadBinAther](https://linkedin.com/in/SaadBinAther)
+### 
+- 📧 Email: [saadbinatherr@gmail.com](mailto:saadbinatherr@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/SaadBinAther](https://linkedin.com/in/SaadBinAther)
+- 📝 Portfolio: [saadbinather.github.io](https://saadbinather.github.io) (if you have one!)
