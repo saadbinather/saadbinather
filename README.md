@@ -26,7 +26,7 @@ I am a final-year Computer Science student passionate about the intersection of 
 
 ### 🛠️ Technical Toolkit
 - **Languages:** Python (PyTorch, Scikit-Learn), JavaScript/TypeScript, C/C++, SQL.
-- **Web:** MERN< Next.js, React, Node.js, Tailwind CSS.
+- **Web:** MERN, Next.js, React, Node.js, Tailwind CSS.
 - **Mobile:** Flutter, Firebase.
 
 
