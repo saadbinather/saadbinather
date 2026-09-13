@@ -2,8 +2,7 @@
 
 ### 🎓 CS Senior | FAST '27 | AI Researcher | Full Stack Development
 
-I am a final-year Computer Science student passionate about the intersection of **Deep Learning** . Currently, I am focused on medical imaging, LLM Halucination, GNNs and scalable full-stack solutions.
-
+I am a final-year Computer Science student.   . My research focuses  on Trusthworthy AI, Exaplainable AI,medical imaging, LLM and VLM Halucination. 
 ---
 
 ### Publications
@@ -15,7 +14,7 @@ Stock Price Prediction Incorporating Market Styles
 and External Influences:** Developed a framework integrating FinBERT and macroeconomic indicators for market forecasting.
 
 
-### 🚀 Featured Projects
+### Few Projects
 
 
 * **[ResearchMate (PaperMind)](https://github.com/saadbinather/PaperMind)**  A semantic PDF question-answering system. Built a retrieval-augmented generation pipeline using Sentence Transformers and FAISS for efficient vector storage, enabling low-latency, context-aware academic research assistance.
@@ -26,7 +25,7 @@ and External Influences:** Developed a framework integrating FinBERT and macroec
 
 * **[AI-Colab](https://github.com/furqanahmad03/ai-codelab)**  A LeetCode-style platform featuring AI-driven question generation and automated code evaluation. Integrated multiple LLM APIs to provide real-time feedback to developers.
 
-* **[TaxChatbot](https://github.com/saadbinather/taxchatbot)**  A specialized financial tool providing real-time tax guidance. Features multilingual support and dynamic language switching, built during my tenure at Musketeers Tech.
+* **[TaxChatbot](https://github.com/saadbinather/taxchatbot)**  A specialized financial tool providing real-time tax guidance for K-12 pupils. Features multilingual support and dynamic language switching, built during my tenure at Musketeers Tech.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
