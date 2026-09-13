@@ -1,23 +1,23 @@
 # Hi, I'm Saad!
 
-### 🎓 CS Senior | FAST '27 | AI Researcher | Full Stack Development
 
-I am a final-year Computer Science student.   . My research focuses  on Trusthworthy AI, Exaplainable AI,medical imaging, LLM and VLM Halucination. 
+I am a final-year Computer Science student. My research focuses on Trusthworthy AI, Exaplainable AI,medical imaging, LLM and VLM Halucination. 
 ---
 
 ### Publications
 - **Clinically-Constrained Vision Transformers for
 Cross-Hospital Domain Generalization in Chest
-X-Ray Diagnosis:** Researching domain generalization in Chest X-Ray diagnosis (CVPR Submission).
+X-Ray Diagnosis:** (CVPR Workshop)
 - **Multi-Factor Machine Learning Framework for
 Stock Price Prediction Incorporating Market Styles
-and External Influences:** Developed a framework integrating FinBERT and macroeconomic indicators for market forecasting.
+and External Influences:** (IAJIT Submission)
+- **Unmasking Medical Deepfakes** (IcoDt2 2026)
 
 
 ### Few Projects
 
 
-* **[ResearchMate (PaperMind)](https://github.com/saadbinather/PaperMind)**  A semantic PDF question-answering system. Built a retrieval-augmented generation pipeline using Sentence Transformers and FAISS for efficient vector storage, enabling low-latency, context-aware academic research assistance.
+* **PaperMind](https://github.com/saadbinather/PaperMind)**  A semantic PDF Q/A system. Built a RAG pipeline using Sentence Transformers and FAISS for efficient vector storage, enabling low-latency, context-aware academic research assistance.
 
 * **[Predict Bit](https://github.com/Shahzhussain/predictBit)** * A predictive analytics application that forecasts Bitcoin price movements by integrating sentiment analysis of Twitter data and news headlines with market time-series data.
 
