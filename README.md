@@ -17,7 +17,7 @@ and External Influences:** (IAJIT Submission)
 ### Few Projects
 
 
-* **PaperMind](https://github.com/saadbinather/PaperMind)**  A semantic PDF Q/A system. Built a RAG pipeline using Sentence Transformers and FAISS for efficient vector storage, enabling low-latency, context-aware academic research assistance.
+* **PaperMind](https://github.com/saadbinather/PaperMind)** *  A semantic PDF Q/A system. Built a RAG pipeline using Sentence Transformers and FAISS for efficient vector storage, enabling low-latency, context-aware academic research assistance.
 
 * **[Predict Bit](https://github.com/Shahzhussain/predictBit)** * A predictive analytics application that forecasts Bitcoin price movements by integrating sentiment analysis of Twitter data and news headlines with market time-series data.
 
