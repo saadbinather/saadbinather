@@ -14,19 +14,6 @@ and External Influences:** (IAJIT Submission)
 - **Unmasking Medical Deepfakes** (IcoDt2 2026)
 
 
-### Few Projects
-
-
-* **PaperMind](https://github.com/saadbinather/PaperMind)** *  A semantic PDF Q/A system. Built a RAG pipeline using Sentence Transformers and FAISS for efficient vector storage, enabling low-latency, context-aware academic research assistance.
-
-* **[Predict Bit](https://github.com/Shahzhussain/predictBit)** * A predictive analytics application that forecasts Bitcoin price movements by integrating sentiment analysis of Twitter data and news headlines with market time-series data.
-
-* **[KhelKood](https://github.com/saadbinather/KhelKood)**  A sports matchmaking and venue booking application for the Lahore community. Features real-time court availability tracking and dynamic competitive leaderboards via Cloud Firestore.
-
-* **[AI-Colab](https://github.com/furqanahmad03/ai-codelab)**  A LeetCode-style platform featuring AI-driven question generation and automated code evaluation. Integrated multiple LLM APIs to provide real-time feedback to developers.
-
-* **[TaxChatbot](https://github.com/saadbinather/taxchatbot)**  A specialized financial tool providing real-time tax guidance for K-12 pupils. Features multilingual support and dynamic language switching, built during my tenure at Musketeers Tech.
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
