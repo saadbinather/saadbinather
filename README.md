@@ -1,7 +1,7 @@
-# Hi, I'm Saad!
+# Saad Bin Ather
 
 
-I am a CS senior and RA. My research focuses on Trusthworthy AI, Med Imaging, LLMs and VLMs. 
+CS senior & Research Assistant | FAST-NUCES, Lahore
 ---
 
 ### Publications
