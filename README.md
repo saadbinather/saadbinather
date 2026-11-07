@@ -1,7 +1,7 @@
 # Hi, I'm Saad!
 
 
-I am a final-year Computer Science student. My research focuses on Trusthworthy AI, Exaplainable AI,medical imaging, LLM and VLM Halucination. 
+I am a CS senior and RA. My research focuses on Trusthworthy AI, Med Imaging, LLMs and VLMs. 
 ---
 
 ### Publications
