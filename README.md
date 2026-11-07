@@ -3,6 +3,22 @@
 
 CS senior & Research Assistant | FAST-NUCES, Lahore
 ---
+<div align="center">
+<a href="https://github.com/saadbinather" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://linkedin.com/in/saadbinather" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+<a href="mailto:saadbinatherr@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://saadbinather.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-%2320232A.svg?&style=for-the-badge&logo=user&logoColor=61DAFB" alt="portfolio" style="margin-bottom: 5px;" />
+</a>
+</div>  
 
 ### Publications
 - **Clinically-Constrained Vision Transformers for
