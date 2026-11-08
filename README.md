@@ -9,23 +9,14 @@
 
 
 
+
 <p align="center">
-  <a href="https://github.com/saadbinather">
-    <img src="https://api.iconify.design/tabler/brand-github.svg?color=%2378B7FF" width="32" height="32" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/saadbinather">
-    <img src="https://api.iconify.design/tabler/brand-linkedin.svg?color=%2378B7FF" width="32" height="32" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:saadbinatherr@gmail.com">
-    <img src="https://api.iconify.design/tabler/mail.svg?color=%2378B7FF" width="32" height="32" alt="Email" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://saadbinather.github.io/">
-    <img src="https://api.iconify.design/tabler/world.svg?color=%2378B7FF" width="32" height="32" alt="Portfolio" />
-  </a>
+  <a href="https://github.com/saadbinather"><img src="https://api.iconify.design/lucide/github.svg?color=%2378B7FF" width="28" height="28" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/saadbinather"><img src="https://api.iconify.design/lucide/linkedin.svg?color=%2378B7FF" width="28" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:saadbinatherr@gmail.com"><img src="https://api.iconify.design/lucide/mail.svg?color=%2378B7FF" width="28" height="28" alt="Email" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://saadbinather.github.io/"><img src="https://api.iconify.design/lucide/globe.svg?color=%2378B7FF" width="28" height="28" alt="Portfolio" /></a>
 </p>
+
  
 ---
 
