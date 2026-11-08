@@ -1,7 +1,12 @@
-# Saad Bin Ather
 
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:06152B,50:1556A0,100:4AB8F5&height=220&section=header&text=Saad%20Bin%20Ather&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=CS%20Senior%20%7C%20Research%20Assistant%20%7C%20FAST-NUCES&descAlignY=60&descColor=D6ECFF&descSize=17&animation=twinkling"
+    alt="Saad Bin Ather"
+  />
+</p>
 
-CS senior & Research Assistant | FAST-NUCES, Lahore
 ---
 <div align="center">
 <a href="https://github.com/saadbinather" target="_blank">
